@@ -1,5 +1,5 @@
 class AppConstants {
-  static const String app_name = 'PayBuy Multivendor Customer';
+  static const String app_name = 'PayBuy India';
   static const String androidPackageName = 'paybuy.multivendor.customer';
   static const String iosPackageName = 'wrteam.eshop.multivendor';
   static const String baseUrl = 'https://store.paybuyindia.in/app/v1/api/';
