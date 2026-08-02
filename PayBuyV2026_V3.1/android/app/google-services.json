@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "701982084026",
+    "project_id": "paybuy-india",
+    "storage_bucket": "paybuy-india.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701982084026:android:10116658d6017f4c3c6b83",
+        "android_client_info": {
+          "package_name": "paybuy.multivendor.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701982084026-8jqejsfoeg704v81rc1e6hm538aa2pbl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "paybuy.multivendor.customer",
+            "certificate_hash": "ebf165c3f311e0376d980256630beea507ac1d58"
+          }
+        },
+        {
+          "client_id": "701982084026-ng7eas471ddtv00r21en352mbo2hn4jb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "paybuy.multivendor.customer",
+            "certificate_hash": "de54a36c67ca4c84d87299cf364940a92da51f27"
+          }
+        },
+        {
+          "client_id": "701982084026-acdabuu3bhhsocd06n1gu3ntkedcq6h9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4xN4O66zB1VH6t27NT0SMe5VyFjyayAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701982084026-acdabuu3bhhsocd06n1gu3ntkedcq6h9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
