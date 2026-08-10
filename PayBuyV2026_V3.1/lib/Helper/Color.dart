@@ -18,8 +18,8 @@ extension colors on ColorScheme {
     },
   );
 
-  static const Color primary = Color(0xffFC6A57);
-  static const Color secondary = Color(0xffFDC994);
+  static const Color primary = Color.fromARGB(255, 8, 136, 150);
+  static const Color secondary = Color.fromARGB(226, 32, 181, 197);
 
   Color get btnColor => brightness == Brightness.dark ? whiteTemp : primary;
 
@@ -47,7 +47,7 @@ extension colors on ColorScheme {
 
   static Color darkIcon = const Color(0xff9B9B9B);
 
-  static const Color grad1Color = Color(0xffFFBD69);
+  static const Color grad1Color = Color.fromARGB(255, 24, 217, 231);
   static const Color grad2Color = Color(0xffFF6363);
   static const Color lightWhite2 = Color(0xffEEF2F3);
 //  static const Color lightWhite = Color(0xffEEF2F3);
