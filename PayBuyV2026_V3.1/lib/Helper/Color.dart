@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 // ignore: camel_case_extensions
 extension colors on ColorScheme {
   static MaterialColor primary_app = const MaterialColor(
-    0xffFC6A57,
+    0xE220B5C5,
     <int, Color>{
       50: primary,
       100: primary,
@@ -47,8 +47,8 @@ extension colors on ColorScheme {
 
   static Color darkIcon = const Color(0xff9B9B9B);
 
-  static const Color grad1Color = Color.fromARGB(255, 24, 217, 231);
-  static const Color grad2Color = Color(0xffFF6363);
+  static const Color grad1Color = Color.fromARGB(255, 8, 136, 150);
+  static const Color grad2Color = Color.fromARGB(226, 32, 181, 197);
   static const Color lightWhite2 = Color(0xffEEF2F3);
 //  static const Color lightWhite = Color(0xffEEF2F3);
 
